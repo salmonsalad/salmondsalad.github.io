@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "혼공C 1주차"
+subtitle: Each post also has a subtitle
 date:   2019-10-09 22:00:01 +0900
-categories: coding
+tags: [test]
+comments: true
 ---
 
 # 혼공 1주차 기본미션
