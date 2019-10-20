@@ -11,7 +11,7 @@ comments: true
 
 #### 혼자 공부하는 C 3,4강 확인문제 풀이
 
-![2주차 1](/files/2주차_1.jpg)
+![2주차 1](/files/2주차_1.jpg){: width="60%" height="60%"}
 ![2주차 2](/files/2주차_2.jpg)
 ![2주차 3](/files/2주차_3.jpg)
 ![2주차 4](/files/2주차_4.jpg)
